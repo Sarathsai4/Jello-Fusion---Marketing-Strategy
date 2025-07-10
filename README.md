@@ -14,7 +14,7 @@
 
 ## 📌 Project Summary
 
-This capstone project redesigns the marketing strategy for the **JELL-O** brand using advanced marketing concepts and real-world data tools. The plan combines academic frameworks (STP, 7Ps, Consumer Behavior) with modern techniques like **influencer engagement**, **retargeting ads**, and **social sentiment tracking**, modeled after industry best practices at **FAANG companies**.
+This project redesigns the marketing strategy for the **JELL-O** brand using advanced marketing concepts and real-world data tools. The plan combines academic frameworks (STP, 7Ps, Consumer Behavior) with modern techniques like **influencer engagement**, **retargeting ads**, and **social sentiment tracking**, modeled after industry best practices at **FAANG companies**.
 
 > 🎯 Goal: Reposition JELL-O as a low-guilt, fun, health-conscious snack for younger generations and health-minded families.
 
